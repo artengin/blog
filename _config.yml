@@ -4,9 +4,12 @@ url: "https://artengin.github.io"
 baseurl: "/blog"
 lang: ru
 timezone: Europe/Moscow
-theme: minima
+remote_theme: "jekyll/minima@4de3223"
+minima:
+  skin: auto
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 github_username: artengin
 defaults:
   - scope:
