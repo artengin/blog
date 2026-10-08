@@ -1,0 +1,13 @@
+title: Блог Артёма Осепяна
+description: Заметки о разработке
+url: "https://artengin.github.io"
+baseurl: "/blog"
+lang: ru
+theme: minima
+plugins:
+  - jekyll-feed
+github_username: artengin
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
