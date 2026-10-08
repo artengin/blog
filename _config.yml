@@ -3,10 +3,16 @@ description: Заметки о разработке
 url: "https://artengin.github.io"
 baseurl: "/blog"
 lang: ru
-theme: minima
+timezone: Europe/Moscow
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 github_username: artengin
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: post
 exclude:
   - Gemfile
   - Gemfile.lock
