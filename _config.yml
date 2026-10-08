@@ -1,16 +1,21 @@
 title: Блог Артёма Осепяна
-description: Заметки о разработке
 url: "https://artengin.github.io"
 baseurl: "/blog"
 lang: ru
 timezone: Europe/Moscow
 remote_theme: "jekyll/minima@4de3223"
 minima:
-  skin: auto
+  skin: classic
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/artengin"
+    - title: Telegram
+      icon: telegram
+      url: "https://t.me/artengin"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-github_username: artengin
 defaults:
   - scope:
       type: posts
