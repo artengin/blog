@@ -1,4 +1,4 @@
-title: Блог Артёма Осепяна
+title: "Артём Осепян | Блог 📝"
 url: "https://artengin.github.io"
 baseurl: "/blog"
 lang: ru
@@ -12,7 +12,11 @@ minima:
       url: "https://github.com/artengin"
     - title: Telegram
       icon: telegram
-      url: "https://t.me/artengin"
+      url: "https://t.me/artengin_notes"
+    - title: Портфолио
+      icon: terminal
+      style: solid
+      url: "https://artengin.github.io"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
