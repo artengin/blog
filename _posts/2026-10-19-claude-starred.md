@@ -70,7 +70,7 @@ claude-starred
 `claude-starred` ничего не ломает в сетапе клода: не меняет настройки и не трогает содержимое сессий, а только добавляет два скилла, `/star` и `/unstar`.
 Названия сессий хранятся отдельно, поэтому в `/resume` они не появляются.
 
-Репозиторий: https://github.com/artengin/claude-starred
+Репозиторий: [https://github.com/artengin/claude-starred](https://github.com/artengin/claude-starred)
 
 Буду рад фидбеку и звёздочкам на GitHub 🙂
 
