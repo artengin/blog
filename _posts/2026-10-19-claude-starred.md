@@ -72,6 +72,4 @@ claude-starred
 
 Репозиторий: [https://github.com/artengin/claude-starred](https://github.com/artengin/claude-starred)
 
-Буду рад фидбеку и звёздочкам на GitHub 🙂
-
 Если что-то не работает или чего-то не хватает, пишите в [issues](https://github.com/artengin/claude-starred/issues).
